@@ -1,0 +1,23 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "airsofteshop-25ad9",
+                    "appId": "1:781180075185:android:98e5b63e759aae03887690",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "airsofteshop-25ad9",
+                    "configurations": {
+                        "android": "1:781180075185:android:98e5b63e759aae03887690",
+                        "ios": "1:781180075185:ios:96495b8d424e3ce4887690",
+                        "web": "1:781180075185:web:76fd7ae63625edc2887690"
+                    }
+                }
+            }
+        }
+    }
+}

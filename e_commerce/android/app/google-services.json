@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "781180075185",
+    "project_id": "airsofteshop-25ad9",
+    "storage_bucket": "airsofteshop-25ad9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781180075185:android:98e5b63e759aae03887690",
+        "android_client_info": {
+          "package_name": "com.example.strikeshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781180075185-778nu2b3skpjqp5lb4inm6ev34g023jv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.strikeshop",
+            "certificate_hash": "971c1c8374dd353dd9ab1706d80da8d9bcb70171"
+          }
+        },
+        {
+          "client_id": "781180075185-11u1ghvp192u2l8qn46keb9e9luilmvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9m74QLTnhTGLstlpC_AQmJ2ozxaF2GL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781180075185-11u1ghvp192u2l8qn46keb9e9luilmvc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "781180075185-3uj09ejhquvlm65duab8f0psoq7149h8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.airsoft.eshop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
